@@ -1,4 +1,7 @@
-openwisp-users @ https://github.com/openwisp/openwisp-users/tarball/1.2
-openwisp-utils[rest,celery,channels] @ https://github.com/openwisp/openwisp-utils/tarball/1.2
+# Editable forks from your GitHub (main branch)
+-e git+https://github.com/sagar-nexapp/openwisp-users.git@main#egg=openwisp_users
+-e git+https://github.com/sagar-nexapp/openwisp-utils.git@main#egg=openwisp_utils[rest,celery,channels]
+
+# Third-party libraries
 markdown~=3.8.2
 jsonfield>=2.1.0
