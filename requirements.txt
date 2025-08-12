@@ -1,6 +1,6 @@
 # Editable forks from your GitHub (main branch)
--e git+https://github.com/sagar-nexapp/openwisp-users.git@main#egg=openwisp_users
--e git+https://github.com/sagar-nexapp/openwisp-utils.git@main#egg=openwisp_utils[rest,celery,channels]
+git+https://github.com/sagar-nexapp/openwisp-users.git@main#egg=openwisp_users
+git+https://github.com/sagar-nexapp/openwisp-utils.git@main#egg=openwisp_utils[rest,celery,channels]
 
 # Third-party libraries
 markdown~=3.8.2
