@@ -4,4 +4,4 @@
 # Third-party dependencies
 django-cors-headers~=4.4.0
 django-redis~=6.0.0
-freezegun~=1.5.4
+freezegun~=1.5.5
