@@ -2,6 +2,6 @@
 -e git+https://github.com/sagar-nexapp/openwisp-utils.git@main#egg=openwisp_utils[qa,selenium,channels,channels-test]
 
 # Third-party dependencies
-django-cors-headers~=4.4.0
+django-cors-headers~=4.9.0
 django-redis~=6.0.0
 freezegun~=1.5.4
